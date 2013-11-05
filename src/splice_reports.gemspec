@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.version     = SpliceReports::VERSION
   s.authors     = ["Wes Hayutin", "Justin Sherril", "John Matthews"]
   s.email       = ["whayutin@redhat.com", "jsherril@redhat.com", "jmatthews@redhat.com", "splice-devel@redhat.com"]
-  s.homepage    = "https://github.com/splice/splice-reports"
+  s.homepage    = "https://github.com/Katello/katello-reports-engine"
   s.summary     = "Rails engine to provide enhanced reports for Katello/SAM."
   s.description = "Description of SpliceReports."
 

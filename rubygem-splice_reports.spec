@@ -12,7 +12,7 @@ Version:    0.0.11
 Release:    1%{?dist}
 Group:      Development/Libraries
 License:    GPLv2+
-URL:        https://github.com/splice/splice-reports
+URL:        https://github.com/Katello/katello-reports-engine
 Source0:    rubygem-%{gem_name}-%{version}.tar.gz
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 #Requires:   katello
